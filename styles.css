@@ -1,0 +1,51 @@
+body{
+    background-color: azure;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-size: contain;
+    background-image: url(hatter.jpg.png)
+}
+
+.hatter{
+    border-top: 50px black;
+    width: 20px;
+    margin-top: 30%;
+}
+
+img{
+    width: 350px;
+    height: 30%;
+    
+}
+ 
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    text-align: center;
+}
+
+p{
+    text-indent: 5px;
+    font-size: small;
+    font-style: italic;
+}
+.th{
+   text-align: center; 
+}
+
+.tr{
+    
+}
+nav{
+    float: center;
+}
+section{
+
+}
+
+li{
+    
+}
+
+seneca{
+    float: right;
+}
